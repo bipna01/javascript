@@ -27,7 +27,7 @@ function oddEven (a){
 oddEven(6);
 
 function greater( a,b){
-    if(a<b){
+    if(a>b){
         console.log("a is greater");
     }
     else{
