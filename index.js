@@ -13,6 +13,7 @@ console.log(fruits[0]);
 
 const person = {
     firstName:"john"
+    
 
 }
 
